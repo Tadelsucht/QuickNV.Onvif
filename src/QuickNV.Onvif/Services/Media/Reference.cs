@@ -5260,6 +5260,9 @@ namespace QuickNV.Onvif.Media
         
         /// <remarks/>
         H264,
+
+        /// <remarks/>
+        H265,
     }
     
     /// <remarks/>
