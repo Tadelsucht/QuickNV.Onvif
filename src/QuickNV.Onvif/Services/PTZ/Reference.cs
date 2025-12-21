@@ -3964,6 +3964,9 @@ namespace QuickNV.Onvif.PTZ
         
         /// <remarks/>
         H264,
+
+        /// <remarks/>
+        H265,
     }
     
     /// <remarks/>
