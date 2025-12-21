@@ -1,14 +1,16 @@
 ﻿using Newtonsoft.Json;
-using System.Reflection.Metadata;
 using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
+using System.ComponentModel;
 
 namespace QuickNV.Onvif.TestUI.Controls
 {
     public partial class ObjectDisplayControl : UserControl
     {
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public Func<Task<object>> FirstValueAsyncFunc { get; set; }
+        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public Func<Task<object>> RefreshAsyncFunc { get; set; }
 
         private string currentView = "Tree";
