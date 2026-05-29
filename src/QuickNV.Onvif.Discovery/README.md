@@ -1,4 +1,4 @@
-# QuickNV.Onvif.Discovery [![NuGet Version](http://img.shields.io/nuget/v/Quick.QuickNV.Discovery.svg?style=flat)](https://www.nuget.org/packages/Quick.QuickNV.Discovery/)
+# QuickNV.Onvif.Discovery [![NuGet Version](http://img.shields.io/nuget/v/QuickNV.Onvif.Discovery.svg?style=flat)](https://www.nuget.org/packages/QuickNV.Onvif.Discovery/)
 
 * [QuickNV.Onvif.Discovery] can discovery Onvif devices in local network.
 
