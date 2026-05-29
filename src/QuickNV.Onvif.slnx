@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuickNV.Onvif.Discovery/QuickNV.Onvif.Discovery.csproj" />
+  <Project Path="QuickNV.Onvif.TestUI/QuickNV.Onvif.TestUI.csproj" />
+  <Project Path="QuickNV.Onvif/QuickNV.Onvif.csproj" />
+  <Project Path="TestClient/TestClient.csproj" />
+</Solution>
