@@ -10,7 +10,7 @@
 		<RepositoryUrl>https://github.com/QuickNV/QuickNV.Onvif</RepositoryUrl>
 		<PackageTags>ONVIF;Onvif;Camera;</PackageTags>
 		<Description>Onvif clients.</Description>
-		<Version>10.2025.1</Version>
+		<Version>2026.1.529</Version>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 	</PropertyGroup>
 
